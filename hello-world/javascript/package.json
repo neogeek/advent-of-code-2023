@@ -1,0 +1,7 @@
+{
+  "name": "advent-of-code-2023",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "private": true
+}

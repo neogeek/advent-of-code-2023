@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "scala-lang.scala",
+    "ms-vscode.cpptools",
+    "ms-vscode.cpptools-extension-pack",
+    "ms-vscode.cpptools-themes",
+    "ms-dotnettools.csharp",
+    "ms-azuretools.vscode-docker",
+    "bmewburn.vscode-intelephense-client",
+    "esbenp.prettier-vscode",
+    "foxundermoon.shell-format",
+    "ziglang.vscode-zig",
+    "haskell.haskell",
+    "jakebecker.elixir-ls",
+    "fwcd.kotlin",
+    "sswg.swift-lang"
+  ]
+}

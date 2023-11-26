@@ -1,0 +1,2 @@
+run:
+	scala main.scala
