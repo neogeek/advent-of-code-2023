@@ -1,31 +1,6 @@
 # ⭐️ [Advent of Code 2023](https://adventofcode.com/2023) ⭐️
 
-> This repo contains `Hello, World!` examples for the following languages:
-
-## Languages
-
-- [x] [Bash](./hello-world/bash)
-- [x] [C](./hello-world/c/)
-- [x] [COBOL](./hello-world/cobol/)
-- [x] [C++](./hello-world/cpp/)
-- [x] [C#](./hello-world/csharp/)
-- [x] [Elixir](./hello-world/elixir/)
-- [x] [Go](./hello-world/go/)
-- [x] [Haskell](./hello-world/haskell/)
-- [x] [Java](./hello-world/java/)
-- [x] [JavaScript](./hello-world/javascript/)
-- [x] [Kotlin](./hello-world/kotlin/)
-- [x] [Lua](./hello-world/lua/)
-- [x] [Objective-C](./hello-world/objective-c/)
-- [x] [PHP](./hello-world/php/)
-- [x] [Python](./hello-world/python/)
-- [x] [R](./hello-world/r/)
-- [x] [Ruby](./hello-world/ruby/)
-- [x] [Rust](./hello-world/rust/)
-- [x] [Scala](./hello-world/scala/)
-- [x] [Swift](./hello-world/swift/)
-- [x] [TypeScript](./hello-world/typescript/)
-- [x] [Zig](./hello-world/zig/)
+> [C++](./hello-world/cpp/) solutions for Advent of Code 2023
 
 ## Day
 
